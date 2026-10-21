@@ -29,7 +29,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
 
-        <appjars.dynamic-menu.version>2.0.0</appjars.dynamic-menu.version>
+        <appjars.dynamic-menu.version>2.1.0</appjars.dynamic-menu.version>
         <vaadin.version>25.2.0</vaadin.version>
         <spring.boot.version>4.0.4</spring.boot.version>
     </properties>
